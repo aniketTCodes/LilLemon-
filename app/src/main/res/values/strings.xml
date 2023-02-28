@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Little Lemon Exercise</string>
+    <string name="Button_text">Order Take Away</string>
+    <string name="title">Little Lemon</string>
+    <string name="Description">We are a family owned Mediterranean Restaurant,focused on traditional recipes served with a modern twist</string>
+    <string name="title_activity_upper_panel">UpperPanel</string>
+</resources>
